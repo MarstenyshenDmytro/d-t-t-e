@@ -35,7 +35,6 @@ const postReducer = (
   state = initialState,
   action: ActionType
 ): InitialStateType => {
-  console.log(action);
   switch (action.type) {
     case "__NEXT_REDUX_WRAPPER_HYDRATE__": {
       return { ...state, ...action.payload.postReducer };
