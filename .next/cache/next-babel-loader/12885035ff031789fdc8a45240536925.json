@@ -1,1 +1,0 @@
-{"ast":null,"code":"export { default } from \"./PostsList\";","map":{"version":3,"sources":["D:/Dima/d-t-t-e/containers/PostsList/index.ts"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,aAAxB","sourcesContent":["export { default } from \"./PostsList\";\r\n"]},"metadata":{},"sourceType":"module"}
