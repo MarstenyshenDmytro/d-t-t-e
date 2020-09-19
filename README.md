@@ -3,6 +3,6 @@ test exercise
 
 
 To run project use:
-nmp install
+npm install
 then use:
 npm run dev
