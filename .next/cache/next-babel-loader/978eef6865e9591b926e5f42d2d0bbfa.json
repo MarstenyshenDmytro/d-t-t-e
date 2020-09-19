@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./LinkButton\";","map":{"version":3,"sources":["D:/Dima/d-t-t-e/components/Link/index.ts"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,cAAxB","sourcesContent":["export { default } from \"./LinkButton\";\r\n"]},"metadata":{},"sourceType":"module"}

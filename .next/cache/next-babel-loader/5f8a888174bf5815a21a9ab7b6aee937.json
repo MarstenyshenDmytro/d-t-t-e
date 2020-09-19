@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from \"./Form\";","map":{"version":3,"sources":["D:/Dima/d-t-t-e/components/form/Form/index.ts"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,QAAxB","sourcesContent":["export { default } from \"./Form\";\r\n"]},"metadata":{},"sourceType":"module"}

@@ -1,0 +1,1 @@
+{"ast":null,"code":"const Post = () => {};\n\nexport default Post;","map":{"version":3,"sources":["D:/Dima/d-t-t-e/components/Post/Post.tsx"],"names":["Post"],"mappings":"AAEA,MAAMA,IAAI,GAAG,MAAM,CAAE,CAArB;;AAEA,eAAeA,IAAf","sourcesContent":["import React from \"react\";\r\n\r\nconst Post = () => {};\r\n\r\nexport default Post;\r\n"]},"metadata":{},"sourceType":"module"}

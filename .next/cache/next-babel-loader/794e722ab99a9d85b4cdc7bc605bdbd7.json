@@ -1,0 +1,1 @@
+{"ast":null,"code":"","map":{"version":3,"sources":[],"names":[],"mappings":"","sourcesContent":["export type PropsType = {\r\n  title: string;\r\n};\r\n"]},"metadata":{},"sourceType":"script"}

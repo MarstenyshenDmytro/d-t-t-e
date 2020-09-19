@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default as rootSaga } from \"./saga/rootSaga\";","map":{"version":3,"sources":["D:/Dima/d-t-t-e/redux/middlewares/index.ts"],"names":["default","rootSaga"],"mappings":"AAAA,SAASA,OAAO,IAAIC,QAApB,QAAoC,iBAApC","sourcesContent":["export { default as rootSaga } from \"./saga/rootSaga\";\r\n"]},"metadata":{},"sourceType":"module"}
